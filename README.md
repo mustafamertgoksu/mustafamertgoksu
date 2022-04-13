@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://codepen.io/hvjyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hvjyg" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mustafamertgoksu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mustafamertgoksu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mustafa mert göksu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mustafa mert göksu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mustafamertgoksu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mustafamertgoksu" height="30" width="40" /></a>
 </p>
 
