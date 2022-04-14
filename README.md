@@ -99,5 +99,8 @@
 
 <br/>  
 
-<div align="center"></div>
+<div align="center">
+ [7 ways to Styled React Components
+](https://mustafamertgoksu.ml/7-ways-to-styled-react-components)
+</div>
 <br />
