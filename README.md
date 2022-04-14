@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">A passionate Frontend Developer from Turkey
+### <div align="center">I'm a young frontend developer from Turkey. I like development.
  👨‍💻  </div>  
   
 
