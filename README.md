@@ -100,6 +100,6 @@
 <br/>  
 
 ###<div align="center">
-[7 ways to Styled React Components](https://mustafamertgoksu.ml/7-ways-to-styled-react-components) 
+[7 ways to Styled React Components](https://mustafamertgoksu.ml/posts/react18-reactdom-render-no-longer-supported) 
 </div>
 <br />
