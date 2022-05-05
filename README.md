@@ -88,8 +88,8 @@
   
 <br/>  
 
-<div align="center">
-## [ReactDom.render no longer Supported](https://mustafamertgoksu.ml/posts/react18-reactdom-render-no-longer-supported) 
-## [Styled Components vs Css Modules](https://mustafamertgoksu.ml/posts/styled-components-vs-css-modules)
+##<div align="center">
+ [ReactDom.render no longer Supported](https://mustafamertgoksu.ml/posts/react18-reactdom-render-no-longer-supported) 
+ [Styled Components vs Css Modules](https://mustafamertgoksu.ml/posts/styled-components-vs-css-modules)
 </div>
 <br />
