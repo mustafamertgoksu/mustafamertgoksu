@@ -7,13 +7,13 @@
  👨‍💻  </div>  
   
 
-- 🔭 I’m currently working on [React Shopping List App]()  
+- 🔭 I’m currently working on VideoHub  
   
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Nest.js and TypeScript
   
 
-- ❓ Ask me about Frontend Development  
+- ❓ Ask me about Full Stack Development  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
