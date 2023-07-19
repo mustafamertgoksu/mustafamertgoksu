@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Nest.js, Postgres and GraphQL<br>💬 Ask me about web development<br>⚡ Fun fact i use tabs over spaces
+🌱 I’m currently learning Backend<br>💬 Ask me about web development<br>⚡ Fun fact i use tabs over spaces
 
 
 ## 🌐 Socials:
